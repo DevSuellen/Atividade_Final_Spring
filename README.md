@@ -1,4 +1,11 @@
  📖 Atividade Final - JavaSpring (API RESTFULL)
+ 
+📌Desenvolva um projeto completo em Spring, seguindo o modelo entidade-relacionamento (ER) fornecido. O projeto deve incluir a criação de todos os controllers / models necessários para manipular as entidades do modelo. 
+
+📌Ao implementar os controllers, as operações CRUD (de pelo menos 4 entidades) devem ser adequadamente tratadas, permitindo o gerenciamento completo dos dados conforme definido no modelo ER.
+
+![image](https://github.com/DevSuellen/Atividade_Final_Spring/assets/161541448/823c9e04-b75a-4e05-a10c-b4e399aba878)
+
 
 Competencias desenvolvidas:
 
