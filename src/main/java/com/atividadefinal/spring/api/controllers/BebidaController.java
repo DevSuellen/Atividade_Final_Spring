@@ -1,5 +1,4 @@
 package com.atividadefinal.spring.api.controllers;
-
 import com.atividadefinal.spring.api.models.Bebida;
 import com.atividadefinal.spring.api.repositories.BebidaRepository;
 import org.springframework.beans.factory.annotation.Autowired;
